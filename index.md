@@ -1,5 +1,7 @@
 # Stock Synthesis Documentation
 
+{% include docs-sidebar.html %}
+
 ## Contents 
 1. [Tutorials](#tutorials)
 2. [User Manual](#manual)
@@ -11,7 +13,7 @@
 * [Getting Started Tutorial](Getting_Started_SS.html)
 * [Building Your First SS3 Model Tutorial](ss_model_tips.html)
 
-# User Manual <a name = "manual"></a>
+## User Manual <a name = "manual"></a>
 * [Current User Manual (html)](SS330_User_Manual_release.html)
 * [Current User Manual (pdf)](https://github.com/nmfs-stock-synthesis/stock-synthesis/releases/download/v3.30.21/SS330_User_Manual.pdf)
 
