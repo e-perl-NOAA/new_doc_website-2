@@ -2,12 +2,6 @@
 
 {% include docs-sidebar.html %}
 
-## Contents 
-1. [Tutorials](#tutorials)
-2. [User Manual](#manual)
-    2.1. [Getting Started Tutorial](Getting_Started_SS.html)
-    2.2. [Building Your First SS3 Model Tutorial](ss_model_tips.html)
-3. [How to Cite the Stock Synthesis User Manual](#cite)
 
 ## Tutorials <a name = "tutorials"></a>
 * [Getting Started Tutorial](Getting_Started_SS.html)
