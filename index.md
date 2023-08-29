@@ -1,6 +1,6 @@
 # Stock Synthesis Documentation
 
-{% include docs-sidebar.html %}
+{{$ include docs-sidebar.html %}}
 
 ## Contents 
 1. [Tutorials](#tutorials)
