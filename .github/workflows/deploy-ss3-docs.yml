@@ -41,6 +41,8 @@ jobs:
           rmarkdown::render("User_Guides/getting_started/Getting_Started_SS.Rmd", output_format = c("html_document", "pdf_document"), output_dir = "docs")
         shell: Rscript {0}
 
+        # rmarkdown::render("docs/Literature.Rmd", output_format = c("html_document", "pdf_document"), output_dir = "docs")
+        
       - name: Deploy to GitHub pages
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
