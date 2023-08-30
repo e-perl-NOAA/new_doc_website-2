@@ -1,21 +1,3 @@
----
-layout: page
-title: Stock Synthesis Documentation
-sidebar:
-  - title: Tutorials
-    links:
-      - text: "Understanding HackerOne's Code of Conduct"
-        url: /resources/articles/code_of_conduct
-      - text: "How to Write a Good Report and Use the CVSS Calculator"
-        url: /resources/articles/writing_a_report_and_cvss
-  - title: SS3 User manual
-    links:
-      - text: "HTML"
-        url: Getting_Started_SS.html
-      - text: "PDF"
-        url: https://github.com/nmfs-stock-synthesis/stock-synthesis/releases/download/v3.30.21/SS330_User_Manual.pdf
----
-
 # Stock Synthesis Documentation
 
 {% include docs-sidebar.html %}
