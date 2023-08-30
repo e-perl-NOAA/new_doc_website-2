@@ -1,0 +1,39 @@
+# Option 1
+toc:
+
+- title: Home
+  url: index.html
+
+- title: Tutorials
+  subfolderitems:
+    - page: Getting Started
+      url: /Getting_Started_SS.html
+    - page: Model Tips
+      url: /ss_model_tips.html
+
+- title: SS3 User Manual
+  url: SS330_User_Manual_release.html
+
+# Option 2
+# title: Stock Synthesis Documentation
+# url: index.html
+# children:
+
+# - title: 'Overview'
+#   url: index.html
+#   output: 'web, pdf'
+
+# - title: 'Tutorials'
+#   output: 'web, pdf'
+#   expand: 'true'
+#   children:
+#   - title: 'Getting Started'
+#     url: Getting_Started_SS.html
+#     output: 'web, pdf'
+#   - title: 'Model Tips'
+#     url: ss_model_tips.html
+#     output: 'web, pdf'
+
+# - title: 'SS3 User Manual'
+#   url: SS330_User_Manual_release.html
+#   output: 'web, pdf'
