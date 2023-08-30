@@ -1,18 +1,18 @@
 # Option 1
-toc:
+# toc:
 
-- title: Home
-  url: index.html
+# - title: Home
+#   url: index.html
 
-- title: Tutorials
-  subfolderitems:
-    - page: Getting Started
-      url: /Getting_Started_SS.html
-    - page: Model Tips
-      url: /ss_model_tips.html
+# - title: Tutorials
+#   subfolderitems:
+#     - page: Getting Started
+#       url: /Getting_Started_SS.html
+#     - page: Model Tips
+#       url: /ss_model_tips.html
 
-- title: SS3 User Manual
-  url: SS330_User_Manual_release.html
+# - title: SS3 User Manual
+#   url: SS330_User_Manual_release.html
 
 # Option 2
 # title: Stock Synthesis Documentation
