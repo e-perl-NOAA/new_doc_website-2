@@ -2,7 +2,6 @@
 
 {% include docs-sidebar.html %}
 
-
 ## Tutorials <a name = "tutorials"></a>
 * [Getting Started Tutorial](Getting_Started_SS.html)
 * [Building Your First SS3 Model Tutorial](ss_model_tips.html)
